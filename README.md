@@ -6,7 +6,7 @@
 
 或看Blog：[https://raoenhui.github.io/vpn/2019/04/09/vpn/](https://raoenhui.github.io/vpn/2019/04/09/vpn/)
 
-或看wiki：[https://github.com/raoenhui/awsSetup/wiki](https://github.com/raoenhui/awsSetup/wiki)
+或看Wiki：[https://github.com/raoenhui/awsSetup/wiki](https://github.com/raoenhui/awsSetup/wiki)
 
 # 主要内容
 
