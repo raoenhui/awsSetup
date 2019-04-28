@@ -1,5 +1,6 @@
 # awsSetup
 用亚马逊云AWS免费搭建VPN服务
+https://raoenhui.github.io/vpn/2019/04/09/vpn/
 
 ### 一 、注册亚马逊AWS云
 
