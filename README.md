@@ -2,7 +2,7 @@
 
 用亚马逊云AWS免费搭建VPN服务
 
-可直接看wiki地址[https://github.com/raoenhui/awsSetup/wiki](https://github.com/raoenhui/awsSetup/wiki)
+可直接看wiki地址：[https://github.com/raoenhui/awsSetup/wiki](https://github.com/raoenhui/awsSetup/wiki)
 
 或看blog：[https://raoenhui.github.io/vpn/2019/04/09/vpn/](https://raoenhui.github.io/vpn/2019/04/09/vpn/)
 
