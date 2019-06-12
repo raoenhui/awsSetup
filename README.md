@@ -4,7 +4,7 @@
 
 可直接看Markdown文档：[具体内容](./Main.md)
 
-或看Blog：[https://raoenhui.github.io/vpn/2019/04/09/vpn/](https://raoenhui.github.io/vpn/2019/04/09/vpn/)
+或看Blog：[https://raoenhui.github.io/limit/vpn/index.html](https://raoenhui.github.io/limit/vpn/index.html)
 
 或看Wiki：[https://github.com/raoenhui/awsSetup/wiki](https://github.com/raoenhui/awsSetup/wiki)
 
